@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED69F2-9B89-4B1D-AFC7-84A6151E9BF6}|SMW\\SMW.csproj|d:\\program files (x86)\\steam\\steamapps\\common\\rimworld\\mods\\sanabi mago worker test\\source\\smw\\smw\\grapplinghook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED69F2-9B89-4B1D-AFC7-84A6151E9BF6}|SMW\\SMW.csproj|solutionrelative:smw\\grapplinghook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED69F2-9B89-4B1D-AFC7-84A6151E9BF6}|SMW\\SMW.csproj|D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\smw\\pawnflyerworker_pulled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED69F2-9B89-4B1D-AFC7-84A6151E9BF6}|SMW\\SMW.csproj|solutionrelative:smw\\pawnflyerworker_pulled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED69F2-9B89-4B1D-AFC7-84A6151E9BF6}|SMW\\SMW.csproj|D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\smw\\internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED69F2-9B89-4B1D-AFC7-84A6151E9BF6}|SMW\\SMW.csproj|solutionrelative:smw\\internaldefof.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDED69F2-9B89-4B1D-AFC7-84A6151E9BF6}|SMW\\SMW.csproj|D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\smw\\pawnflyer_pulled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDED69F2-9B89-4B1D-AFC7-84A6151E9BF6}|SMW\\SMW.csproj|solutionrelative:smw\\pawnflyer_pulled.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PawnFlyerWorker_Pulled.cs",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\SMW\\PawnFlyerWorker_Pulled.cs",
+              "RelativeDocumentMoniker": "SMW\\PawnFlyerWorker_Pulled.cs",
+              "ToolTip": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\SMW\\PawnFlyerWorker_Pulled.cs",
+              "RelativeToolTip": "SMW\\PawnFlyerWorker_Pulled.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T20:46:30.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InternalDefOf.cs",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\SMW\\InternalDefOf.cs",
+              "RelativeDocumentMoniker": "SMW\\InternalDefOf.cs",
+              "ToolTip": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\SMW\\InternalDefOf.cs",
+              "RelativeToolTip": "SMW\\InternalDefOf.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T10:08:07.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PawnFlyer_Pulled.cs",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\SMW\\PawnFlyer_Pulled.cs",
+              "RelativeDocumentMoniker": "SMW\\PawnFlyer_Pulled.cs",
+              "ToolTip": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\SMW\\PawnFlyer_Pulled.cs",
+              "RelativeToolTip": "SMW\\PawnFlyer_Pulled.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAuwA4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T09:43:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GrapplingHook.cs",
+              "DocumentMoniker": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\SMW\\GrapplingHook.cs",
+              "RelativeDocumentMoniker": "SMW\\GrapplingHook.cs",
+              "ToolTip": "D:\\Program Files (x86)\\Steam\\steamapps\\common\\RimWorld\\Mods\\Sanabi Mago Worker Test\\Source\\SMW\\SMW\\GrapplingHook.cs",
+              "RelativeToolTip": "SMW\\GrapplingHook.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAowLkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T04:37:11.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

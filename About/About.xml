@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Sanabi Mago Worker Test</name>
+    <author>enderfree</author>
+    <packageId>enderfree.comission.SMWT</packageId>
+    <supportedVersions>
+		<li>1.5</li>
+    </supportedVersions>
+    <description>What lolkenator3k comissioned me to do for his Sanabi Mago Worker mod</description>
+</ModMetaData>

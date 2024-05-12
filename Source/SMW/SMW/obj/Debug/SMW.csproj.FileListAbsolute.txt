@@ -1,0 +1,5 @@
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sanabi Mago Worker Test\1.4\Assemblies\SMW.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sanabi Mago Worker Test\Source\SMW\SMW\obj\Debug\SMW.csproj.AssemblyReference.cache
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sanabi Mago Worker Test\Source\SMW\SMW\obj\Debug\SMW.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sanabi Mago Worker Test\Source\SMW\SMW\obj\Debug\SMW.dll
+D:\Program Files (x86)\Steam\steamapps\common\RimWorld\Mods\Sanabi Mago Worker Test\1.5\Assemblies\SMW.dll
